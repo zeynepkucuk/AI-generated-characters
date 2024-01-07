@@ -31,3 +31,9 @@ Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl �
 
 ![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/oguz1.jpeg)
 
+
+- 🔗 İlgili Bağlantılar:
+
+Microsoft Copilot: https://copilot.microsoft.com/ 
+
+

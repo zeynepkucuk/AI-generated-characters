@@ -2,7 +2,9 @@
 
 Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl ücretsiz  viral görseller oluşturabileceğinizi göstereceğim. Bu süreç oldukça basit ve eğlenceli! Kullanabileceğiniz bazı örnek promtpları aşağıya ekledim. 
 
- ![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/youtube.png)
+[<img src="https://github.com/zeynepkucuk/AI-generated-characters/blob/master/youtube.jpeg">](https://youtu.be/3f01MmDt8-Y)
+ 
+
  
 - Youtube Video :  https://youtu.be/3f01MmDt8-Y  
 

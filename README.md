@@ -18,7 +18,6 @@ Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl �
 
 > Create an image of a stylized 3D animated character with striking resemblance to modern animation movies. The character is a young Turkish stylish female with wavy dark yellow hair, parted to the side, and almond expressive cat eyes. She is long and curvy. She wears a short pink skirt, a back and pink buttoned jacket jacket, paired with knee-high cream boots. A silver and pink mixed check skirt and jacket set. She sits casually with a friendly demeanor on a giant, iconic pink 'social media' logo cube that says “Instagram” that is central in.
 
-![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/zelish1.jpeg)
 ![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/zelish.jpeg)
 
 > Create an image of a stylized 3D animated character with striking resemblance to modern animation movies. The character is a middle-aged white turkish male with straight black hair, parted to the side, and almond expressive cat blue eyes. He is tall and broad-shouldered. He wears blue jeans, a black t-shirt and sneakers. He sits casually with a friendly demeanor on a giant, iconic blue 'social media' logo cube that says “facebook” that is central in lucas_a_meyer profile picture

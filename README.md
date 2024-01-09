@@ -35,9 +35,17 @@ Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl �
 
 ![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/keman.jpeg)
 
+> Create an image of a stylized 3D animated character with striking resemblance to modern animation movies. The character is a young Turkish stylish female with curl black hair, parted to the side a red beret, and almond expressive cat eyes. She is short and curvy. She wears a short black dress, a back and white varsity jacket, paired with knee-high black boots. She sits casually with a friendly demeanor on a giant, iconic blue 'social media' logo cube that says “Facebook” that is central in the composition. The background has soft lighting with a slight vignette to draw focus to the character. There is a subtle ambient glow that suggests digital connectivity, and the character's profile picture appears on the upper part of the composition, within a stylized social media interface website in the back. Her name “Zeynep” is prominently displayed.
+
+![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/girl.jpeg)
+
+
+
 
 - 🔗 İlgili Bağlantılar:
 
 Microsoft Copilot: https://copilot.microsoft.com/ 
 
+
+Thanks to Eleonor Rose, who contributed to the creation of these prompts.
 

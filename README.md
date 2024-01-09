@@ -30,6 +30,11 @@ Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl �
 
 ![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/oguz1.jpeg)
 
+> 24k resolution, 16:9 AR. A stylized 3D animated character with striking resemblance to modern animation movies. The character is a 24 year old female with long yellow and brown wavy hair, parted to the side, and large expressive almond brown eyes. She playing the violin. She wears a black mini skirt , a black flannel blazer and white turtleneck, and Doc Martens. (cont.)
+
+
+![](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/keman.jpeg)
+
 
 - 🔗 İlgili Bağlantılar:
 

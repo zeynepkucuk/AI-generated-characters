@@ -1,7 +1,8 @@
  # AI-generated-characters
 
-Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl ücretsiz  viral görseller oluşturabileceğinizi göstereceğim. Bu süreç oldukça basit ve eğlenceli! Kullanabileceğiniz bazı örnek promtpları aşağıya ekledim. 
+Hello friends!
 
+I'm Zeynep, today I will show you how you can create free viral images using Microsoft Copilot. This process is very simple and fun! I've included some sample promtps you can use below.
 
  [![image](https://github.com/zeynepkucuk/AI-generated-characters/blob/master/youtube.png)](https://youtu.be/3f01MmDt8-Y)
  
@@ -42,7 +43,7 @@ Selam dostlar!  Ben Zeynep bugün sizlere Microsoft Copilot  kullanarak nasıl �
 
 
 
-- 🔗 İlgili Bağlantılar:
+- 🔗 Related Links: 
 
 Microsoft Copilot: https://copilot.microsoft.com/ 
 
